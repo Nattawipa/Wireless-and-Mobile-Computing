@@ -1,6 +1,6 @@
 # W6_shop
 
-A new Flutter Routingg project.
+A new Flutter Routing project.
 
 ## Getting Started
 
