@@ -1,6 +1,6 @@
-# W4_shop
+# W6_shop
 
-A new Flutter project.
+A new Flutter Routing project.
 
 ## Getting Started
 
